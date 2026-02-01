@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #d4af37, #1b1b1b);
+    color: white;
+}
+
+.hero {
+    text-align: center;
+    padding: 90px 20px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.hero h1 {
+    font-size: 64px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+.hero p {
+    font-size: 22px;
+}
+
+.section {
+    margin: 30px;
+    padding: 40px;
+    background: rgba(0,0,0,0.7);
+    border-radius: 15px;
+}
+
+h2 {
+    color: #ffd700;
+}
+
+ul {
+    line-height: 1.9;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    background: black;
+}
+
+.note {
+    font-size: 14px;
+    color: #f5d76e;
+}
